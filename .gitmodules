@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Tawhid-Ahmed/taskpilot-ai-backend.git
+[submodule "ai-service"]
+	path = ai-service
+	url = https://github.com/Tawhid-Ahmed/taskpilot-ai-rag.git
